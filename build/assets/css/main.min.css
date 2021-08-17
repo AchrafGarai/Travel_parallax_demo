@@ -287,6 +287,10 @@ h1, h2, h3, h4, h5, h6, p {
 .gigantic {
   font-size: 355px;
   line-height: 1.09; }
+  @media only screen and (max-width: 1440px) {
+    .gigantic {
+      font-size: 144px;
+      letter-spacing: .5rem; } }
   @media only screen and (max-width: 680px) {
     .gigantic {
       font-size: 4rem;
@@ -301,6 +305,10 @@ h1, h2, h3, h4, h5, h6, p {
   font-size: 144px;
   line-height: 1.8;
   letter-spacing: 1rem; }
+  @media only screen and (max-width: 1440px) {
+    .huge, h1 {
+      font-size: 72px;
+      letter-spacing: .5rem; } }
   @media only screen and (max-width: 680px) {
     .huge, h1 {
       font-size: 32px;

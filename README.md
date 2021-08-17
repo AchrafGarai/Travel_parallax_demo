@@ -5,6 +5,7 @@ This is a demo showing simple parallax effect using lax.js
 this project is based on jessie showalter's project starter pack (https://github.com/jesseshowalter/jesseshowalter-starter-project) which gives a good stucture to get projects going quickly. to use this, you need to go through some requirements and install dependencies.
 
 ## Requirements
+
 This project have some requirements you need to meet in order to compile it. First of all, you need NodeJS in order to run Javascript on the console, you can go to the [NodeJS](http://nodejs.org) site and follow trough the installation process. After you get the `node` command on the console you will have the node package manager `npm` as well. Now you need to install Gulp with the following command.
 
 ```
